@@ -1,0 +1,4 @@
+Ctrl + Shift + E：打开最近编辑代码位置
+Ctrl + Alt + S：打开设置
+当打开一个类时,可以点击左边的structure来查看该类的所有方法
+当新建的一个类是继承的已知类时,可以Alt + Insert | override Method来查看所有方法

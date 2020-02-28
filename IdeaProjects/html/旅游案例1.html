@@ -1,0 +1,38 @@
+<!--错误示范-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>黑马旅游网</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td>
+            <img src="./Image/top_banner.jpg" align="center" alt="">
+        </td>
+    </tr>
+<!--因为第一个tr中只有一列,所以后边的每一行中也只能有一列，所以第二行只能显示一张图片-->
+    <tr>
+        <td>
+            <img src="./Image/logo.jpg" alt="">
+        </td>
+
+        <td>
+            <img src="./Image/search.png" alt="">
+        </td>
+
+        <td>
+            <img src="./Image/hotel_tel.png" alt="">
+        </td>
+    </tr>
+<!--这样写也是错误的-->
+    <tr>
+        <img src="./Image/logo.jpg" alt="">
+        <img src="./Image/search.png" alt="">
+        <img src="./Image/hotel_tel.png" alt="">
+    </tr>
+</table>
+</body>
+</html>

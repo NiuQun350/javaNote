@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4343ac19-846c-4baa-bc6b-6ae9b9d842c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Practice" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Algorithm" />
+  </component>
+  <component name="ProjectId" id="1PdOAOsEUyReBMn5X9PcF1E4O2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="cn.ctgu.test4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cn/ctgu/testthreadsecurity4" />
+      <recent name="$PROJECT_DIR$/src/cn/ctgu/testthreadsecurity3" />
+      <recent name="$PROJECT_DIR$/src/cn/ctgu/testthreadsecurity2" />
+      <recent name="$PROJECT_DIR$/src/cn/ctgu/testthreadsecurity1" />
+      <recent name="$PROJECT_DIR$/src/cn/ctgu/testswing2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="SellTickets (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ctgu.testthreadsecurity1.SellTickets" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ctgu.testthreadsecurity1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellTickets (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ctgu.testthreadsecurity2.SellTickets" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ctgu.testthreadsecurity2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellTickets (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ctgu.testthreadsecurity3.SellTickets" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ctgu.testthreadsecurity3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellTickets (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ctgu.testthreadsecurity4.SellTickets" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ctgu.testthreadsecurity4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ctgu.Test" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ctgu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SellTickets (4)" />
+        <item itemvalue="Application.SellTickets (1)" />
+        <item itemvalue="Application.SellTickets (3)" />
+        <item itemvalue="Application.SellTickets (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4343ac19-846c-4baa-bc6b-6ae9b9d842c9" name="Default Changelist" comment="" />
+      <created>1566200362509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566200362509</updated>
+      <workItem from="1566200365748" duration="24546000" />
+      <workItem from="1567249901452" duration="8267000" />
+      <workItem from="1567296103800" duration="9499000" />
+      <workItem from="1567344970319" duration="15135000" />
+      <workItem from="1567546309358" duration="3218000" />
+      <workItem from="1567573096392" duration="22217000" />
+      <workItem from="1567659519592" duration="12147000" />
+      <workItem from="1567761096165" duration="76000" />
+      <workItem from="1567920446246" duration="34000" />
+      <workItem from="1567920848765" duration="1443000" />
+      <workItem from="1568454908733" duration="18259000" />
+      <workItem from="1569237570037" duration="120000" />
+      <workItem from="1570705300904" duration="6525000" />
+      <workItem from="1570768526594" duration="770000" />
+      <workItem from="1570876966477" duration="7000" />
+      <workItem from="1571055729642" duration="9465000" />
+      <workItem from="1571147304449" duration="7306000" />
+      <workItem from="1571212577909" duration="11603000" />
+      <workItem from="1571285410740" duration="521000" />
+      <workItem from="1571293985066" duration="166000" />
+      <workItem from="1571623489341" duration="3587000" />
+      <workItem from="1572049014192" duration="159000" />
+      <workItem from="1572049584414" duration="1087000" />
+      <workItem from="1572053424254" duration="690000" />
+      <workItem from="1572054492638" duration="6000" />
+      <workItem from="1572054525467" duration="657000" />
+      <workItem from="1572061634158" duration="1722000" />
+      <workItem from="1572063450092" duration="4000" />
+      <workItem from="1572063609273" duration="2000" />
+      <workItem from="1572063673819" duration="1789000" />
+      <workItem from="1572065488662" duration="613000" />
+      <workItem from="1572080871728" duration="1554000" />
+      <workItem from="1572083435779" duration="1186000" />
+      <workItem from="1572096383896" duration="1630000" />
+      <workItem from="1572098205809" duration="1791000" />
+      <workItem from="1572100020550" duration="1790000" />
+      <workItem from="1572101835421" duration="832000" />
+      <workItem from="1572139220424" duration="601000" />
+      <workItem from="1572141205217" duration="681000" />
+      <workItem from="1572146114838" duration="832000" />
+      <workItem from="1572148558632" duration="143000" />
+      <workItem from="1572148723720" duration="23000" />
+      <workItem from="1572149018395" duration="4000" />
+      <workItem from="1572156989878" duration="176000" />
+      <workItem from="1572157425318" duration="682000" />
+      <workItem from="1572158477089" duration="1723000" />
+      <workItem from="1572160225970" duration="1565000" />
+      <workItem from="1572163468722" duration="293000" />
+      <workItem from="1572164104576" duration="11000" />
+      <workItem from="1572164137048" duration="72000" />
+      <workItem from="1572164553713" duration="24437000" />
+      <workItem from="1572566381102" duration="14913000" />
+      <workItem from="1572604205640" duration="3448000" />
+      <workItem from="1572611495427" duration="174000" />
+      <workItem from="1572612060565" duration="5619000" />
+      <workItem from="1572660036315" duration="1509000" />
+      <workItem from="1572661821534" duration="6257000" />
+      <workItem from="1572691516166" duration="8268000" />
+      <workItem from="1573170689440" duration="6951000" />
+      <workItem from="1573180903611" duration="4463000" />
+      <workItem from="1573186280009" duration="32000" />
+      <workItem from="1573186633670" duration="1697000" />
+      <workItem from="1573458625854" duration="796000" />
+      <workItem from="1573793208850" duration="650000" />
+      <workItem from="1574167461136" duration="36000" />
+      <workItem from="1574236828621" duration="6431000" />
+      <workItem from="1574257889939" duration="7320000" />
+      <workItem from="1574293810239" duration="201000" />
+      <workItem from="1574294031756" duration="39000" />
+      <workItem from="1574315028242" duration="3412000" />
+      <workItem from="1574381129441" duration="7371000" />
+      <workItem from="1576191311645" duration="9599000" />
+      <workItem from="1576221875901" duration="16984000" />
+      <workItem from="1576363559792" duration="2057000" />
+      <workItem from="1576366635103" duration="5051000" />
+      <workItem from="1576406014821" duration="4175000" />
+      <workItem from="1576570214843" duration="1251000" />
+      <workItem from="1576716729609" duration="8009000" />
+      <workItem from="1576738190111" duration="22872000" />
+      <workItem from="1576800269330" duration="5725000" />
+      <workItem from="1576883641814" duration="2695000" />
+      <workItem from="1576887509933" duration="169000" />
+      <workItem from="1576887696233" duration="92000" />
+      <workItem from="1576888207220" duration="194000" />
+      <workItem from="1576888683332" duration="870000" />
+      <workItem from="1576890193632" duration="10651000" />
+      <workItem from="1576974823453" duration="14462000" />
+      <workItem from="1577066811717" duration="3111000" />
+      <workItem from="1577072430197" duration="10527000" />
+      <workItem from="1577093603127" duration="3430000" />
+      <workItem from="1577412319763" duration="1000" />
+      <workItem from="1577412463604" duration="2632000" />
+      <workItem from="1577415120176" duration="26000" />
+      <workItem from="1577415390290" duration="47000" />
+      <workItem from="1577415694075" duration="1672000" />
+      <workItem from="1577702687942" duration="716000" />
+      <workItem from="1577756119280" duration="49000" />
+      <workItem from="1577756485186" duration="8777000" />
+      <workItem from="1577768045656" duration="24986000" />
+      <workItem from="1580169348877" duration="252000" />
+      <workItem from="1580169647645" duration="1319000" />
+      <workItem from="1580351126500" duration="11000" />
+      <workItem from="1580470343138" duration="510000" />
+      <workItem from="1582761713366" duration="1445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/sxt/oo1/TestAbstract.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/ctgu/guiprogram/TestFlowLayout.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cn/ctgu/guiprogram/TestBorderLayout.java</url>
+          <line>15</line>
+          <properties class="cn.ctgu.guiprogram.TestBorderLayout" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

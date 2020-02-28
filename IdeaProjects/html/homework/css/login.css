@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.title_table{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.project_title{
+    font-size: 40px;
+}
+
+body{
+    background: url("../image/login_bg.jpg") no-repeat;
+    background-size: cover;
+}
+
+.login_table{
+    border: 1px solid #A6A6A6;
+    border-radius: 5px;
+    margin-top: 80px;
+    width: 30%;
+    height: 400px;
+}
+
+#username, #password {
+    width: 251px;
+    height: 45px;
+    border-radius: 5px;
+    margin: 20px;
+    padding-left: 12px;
+    border: 1px solid gray;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 21px;
+}
+
+.td_left{
+
+    width: 150px;
+    text-align: right;
+    height: 45px;
+}
+
+.td_right{
+    padding-left: 20px;
+}
+
+#btn_sub{
+
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: #40ff7f;
+    vertical-align: middle;
+    background-color: darkturquoise;
+}
+
+.radio_prompt{
+
+    height: 20px;
+    margin: 0px;
+}
+
+.link_register{
+
+    height: 40px;
+}
+
+.btn_login{
+    height: 50px;
+}
+
+a:link{
+    color: pink;
+}
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: yellow;
+}
+a:visited{
+    color: purple;
+}
